@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahaan Banerjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahaanb29&label=Profile%20views&color=0e75b6&style=flat" alt="ahaanb29" /> </p>
 
