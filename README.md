@@ -5,13 +5,13 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahaanb29" alt="ahaanb29" /></a> </p>-->
 
-- 🔭 I’m currently working on ** Improving Visual SLAM**
+- 🔭 I’m currently working on **Improving Visual SLAM**
 
 - 👯 I’m looking to collaborate on **AI,Machine Learning and Deep Learning**
 
 - 📫 How to reach me **ahaanbanerjee11@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19oo24ayu3VFJEEX9L5XPBJZJKKBY-21XHGkBWhNs4ww/edit?usp=sharing](https://docs.google.com/document/d/19oo24ayu3VFJEEX9L5XPBJZJKKBY-21XHGkBWhNs4ww/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UjN2IHzl719skwAEdRseSUchviuhX61e/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
