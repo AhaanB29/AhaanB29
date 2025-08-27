@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahaanb29" alt="ahaanb29" /></a> </p>-->
 
-- 🔭 I’m currently working on **Improving Visual SLAM**
+- 🔭 I’m currently working on **Structure from Motion**
 
 - 👯 I’m looking to collaborate on **AI,Machine Learning and Deep Learning**
 
